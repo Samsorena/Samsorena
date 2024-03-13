@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=samsorena&amp;show_icons=true" alt="GitHub Stats">
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjufy&layout=compact)](https://github.com/iamkatelim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsorena&layout=compact)](https://github.com/iamkatelim/github-readme-stats)
